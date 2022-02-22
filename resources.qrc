@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="icons">
+    <file alias="app_icon">icons/designer.png</file>
+    <file alias="open_icon">icons/folder-open-document.png</file>
+    <file alias="normal_mode_icon">icons/normal_mode.png</file>
+    <file alias="design_mode_icon">icons/design_mode.png</file>
+    <file alias="delete_items_icon">icons/cross-circle.png</file>
+    <file alias="navigation_first">icons/navigation_first.png</file>
+    <file alias="navigation_previous">icons/navigation_previous.png</file>
+    <file alias="navigation_next">icons/navigation_next.png</file>
+    <file alias="navigation_last">icons/navigation_last.png</file>
+  </qresource>
+</RCC>
